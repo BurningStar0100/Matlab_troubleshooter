@@ -551,4 +551,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-*Project ideated and designed by ThePredictiveDev and coded with vibes.*
+
