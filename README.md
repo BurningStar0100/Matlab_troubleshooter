@@ -254,8 +254,7 @@ numpy>=1.24.0        # Numerical operations
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/ThePredictiveDev/IITMandiHackathon-Group54.git
-cd IITMandiHackathon-Group54
+git clone https://github.com/BurningStar0100/Matlab_troubleshooter.git
 ```
 
 ### 2. Create Virtual Environment
